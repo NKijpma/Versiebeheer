@@ -97,3 +97,15 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+git rm -r --cached Library
+git rm -r --cached Temp
+git rm -r --cached Obj
+git rm -r --cached Builds
+git rm -r --cached Logs
+git rm -r --cached .vs
+
+git commit -m "Cleaned Unity cache folders"
+git push
+
+
