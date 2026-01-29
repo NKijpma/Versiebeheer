@@ -1,2 +1,2 @@
 # Versiebeheer
-Deze repository bevat mijn  unity game genaamd SUPER spooky game
+Deze repository bevat mijn  unity assets/code voor me game
